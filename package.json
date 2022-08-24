@@ -1,0 +1,28 @@
+{
+  "name": "@mdbootstrap/react-select-with-custom-input",
+  "version": "1.0.0",
+  "description": "Responsive React Select with custom user input built with Bootstrap 5. Click on the Other option to input a custom value into the select.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "navigation",
+    "bootstrap5",
+    "responsive-design",
+    "bootstrap-template",
+    "template",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-select-with-custom-input.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-select-with-custom-input/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/select-with-custom-input/"
+}
